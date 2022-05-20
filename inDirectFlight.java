@@ -43,7 +43,4 @@ public class inDirectFlight extends FlyCustomer {
 	public String toString() {
 		return transAirport+","+levy+","+Extra;
 	}
-	
-	
-
 }
